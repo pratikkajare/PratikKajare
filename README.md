@@ -1,9 +1,8 @@
+ <h1 align="center">Hey👋, I'm Pratik</h1>
 ![pratikgitread](https://user-images.githubusercontent.com/75242181/174532149-4711b66d-55ce-4933-95d9-b1ade01c78c7.gif)
-
- I'm Pratik KAjare
  
  - I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.
- <h1 align="center">Hi 👋, I'm Pratik</h1>
+
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikkajare&label=Profile%20views&color=0e75b6&style=flat" alt="pratikkajare" /> </p>
