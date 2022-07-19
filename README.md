@@ -1,6 +1,5 @@
- <h1 align="center">Hey👋, I'm Pratik</h1>
 ![pratikgitread](https://user-images.githubusercontent.com/75242181/174532149-4711b66d-55ce-4933-95d9-b1ade01c78c7.gif)
- 
+  <h1 align="center">Hey👋, I'm Pratik</h1>
  - I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.
 
 <h3 align="center">A passionate fullstack developer from India</h3>
