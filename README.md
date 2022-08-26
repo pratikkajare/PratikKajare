@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikkajare" alt="pratikkajare" /></a> </p>
 
-- 🔭 I’m currently working on **backend(NestJS)**
+- 🔭 I’m currently working on **backend(NestJS/GraphQl/Mongoo/AWS)**
 - Learning GraphQl-typeORM in NestJS
 
 - 👨‍💻 All of my projects are available at [http://r-portfolio-pratik.herokuapp.com/](http://r-portfolio-pratik.herokuapp.com/)
