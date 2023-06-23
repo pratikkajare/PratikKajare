@@ -87,7 +87,7 @@ GraphQl-typeORM in NestJS - 👨‍💻 All of my projects are available at
 <center>
 <p>
   &nbsp;<img
-    align="center"
+    align="center" width="80%"
     src="https://github-readme-stats.vercel.app/api?username=pratikkajare&show_icons=true&locale=en"
     alt="pratikkajare" />
 </p>
