@@ -1,11 +1,11 @@
-![pratikgitread](https://user-images.githubusercontent.com/75242181/174532149-4711b66d-55ce-4933-95d9-b1ade01c78c7.gif)
+<!-- ![pratikgitread](https://user-images.githubusercontent.com/75242181/174532149-4711b66d-55ce-4933-95d9-b1ade01c78c7.gif) -->
 <h1 align="center">Hey👋, I'm Pratik</h1>
-- I'm a Full Stack Web Developer skilled in MERN stack. My passion for software
+- I'm a Full Stack Developer skilled in MERN stack. My passion for software
 lies with dreaming up ideas and making them come true with elegant interfaces.I
 focus on writing clean, elegant and efficient code. Highly skilled in
 collaboration, decision-making, and Data Structures & Algorithms.
 
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate developer</h3>
 
 <p align="left">
   <img
@@ -29,8 +29,8 @@ GraphQl-typeORM in NestJS - 👨‍💻 All of my projects are available at
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
@@ -94,7 +94,7 @@ GraphQl-typeORM in NestJS - 👨‍💻 All of my projects are available at
 
 <p>
   <img
-    align="center"
+    align="center"  width="80%" height="20%"
     src="https://github-readme-streak-stats.herokuapp.com/?user=pratikkajare&"
     alt="pratikkajare" />
 </p>
