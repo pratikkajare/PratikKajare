@@ -35,29 +35,29 @@ GraphQl-typeORM in NestJS - 👨‍💻 All of my projects are available at
     <img
       src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
       alt="Nodejs"
-      width="40"
-      height="40" />
+      width="36"
+      height="36" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
       alt="Typescript"
-      width="40"
-      height="40" />
+      width="36"
+      height="36" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
-      width="40"
-      height="40" />
+      width="36"
+      height="36" />
   </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
       alt="heroku"
-      width="40"
-      height="40" />
+      width="36"
+      height="36" />
   </a>
   <a
     href="https://docs.nestjs.com/graphql/quick-start"
@@ -66,22 +66,22 @@ GraphQl-typeORM in NestJS - 👨‍💻 All of my projects are available at
     <img
       src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"
       alt="Nestjs"
-      width="40"
-      height="40" />
+      width="36"
+      height="36" />
   </a>
   <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"
       alt="Elastic"
-      width="40"
-      height="40" />
+      width="36"
+      height="36" />
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
       alt="Mongo"
-      width="40"
-      height="40" />
+      width="36"
+      height="36" />
   </a>
 </p>
 
@@ -98,4 +98,3 @@ GraphQl-typeORM in NestJS - 👨‍💻 All of my projects are available at
     src="https://github-readme-streak-stats.herokuapp.com/?user=pratikkajare&"
     alt="pratikkajare" />
 </p>
-
