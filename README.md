@@ -21,7 +21,8 @@ decision-making, and Data Structures & Algorithms.
   /></a>
 </p>
 
-- 🔭 I’m currently working on **backend(NestJS/GraphQl/Rest/MongoDB/AWS/MetaApps/Husky)** 👨‍💻 All of my projects are available at
+- 🔭 I’m currently working on **backend(NestJS/GraphQl/Rest/MongoDB/AWS/MetaApps/Husky)** 👨‍💻 
+All of my projects are available at
 [http://r-portfolio-pratik.herokuapp.com/](http://r-portfolio-pratik.herokuapp.com/)
 - 📫 How to reach me **pratikkajare826@gmail.com**
 
@@ -111,7 +112,7 @@ decision-making, and Data Structures & Algorithms.
     target="_blank"
     rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/util/preview.html?image=/logos/atlassian_jira/atlassian_jira-icon.svg"
+      src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"
       alt="Jira"
       width="36"
       height="36" />
@@ -121,7 +122,7 @@ decision-making, and Data Structures & Algorithms.
     target="_blank"
     rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/util/preview.html?image=/logos/figma/figma-icon.svg"
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="Figma"
       width="36"
       height="36" />
