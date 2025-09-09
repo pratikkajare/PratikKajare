@@ -20,6 +20,9 @@ decision-making, and Data Structures & Algorithms.
       alt="pratikkajare"
   /></a>
 </p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 - 🔭 I’m currently working on **backend(NestJS/GraphQl/Rest/MongoDB/AWS/MetaApps/Husky)** 👨‍💻 
 All of my projects are available at
